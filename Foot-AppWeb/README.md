@@ -1,3 +1,16 @@
+# Realizar antes de Ejecutar
+clonar desde Github y ejecutar por consola desde la ruta donde lo tengan
+
+utilizar ctrl + ñ en visual code
+
+npm install 
+
+
+npm install --save @angular/material @angular/cdk
+
+npm install --save @angular/animations
+
+
 # FootAppWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
