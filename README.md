@@ -6,5 +6,7 @@ Proyecto Programación 2
 ionic-Material Desing
 
 http://ionicframework.com/docs/intro/installation/
+
 http://ionicmaterial.com/
+
 http://ionicframework.com/docs/components/#slides
