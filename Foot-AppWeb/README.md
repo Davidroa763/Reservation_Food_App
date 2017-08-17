@@ -24,6 +24,10 @@ en esta ventana encontraran un Iniciar donde estan las opciones:
   y ejecutarla con los pasos
   
   tambien pegan el link de la pagina actual y lo clonan en Visual
+  
+  una vez tengan la capeta en Visual Code, ejecuten el comando crtl + ñ
+  y se abrira la consola, en consola ubiquesen en la carpeta del proyecto con cd + la ruta,
+  y luego ejecutan los comando que se necesitan antes de ejecutar
 
 # Realizar antes de Ejecutar
 
