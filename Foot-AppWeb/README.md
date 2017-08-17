@@ -1,7 +1,32 @@
 # Realizar antes de Ejecutar
-clonar desde Github y ejecutar por consola desde la ruta donde lo tengan
 
-utilizar ctrl + ñ en visual code
+Para Iniciar con el proyecto instalar los Siguientes Programas
+
+npm NODE.JS
+https://nodejs.org/es/
+--Para el reconocimiento de npm en el proyecto
+
+Visual Code
+https://code.visualstudio.com/
+--El editor de codigo
+
+Manejar Visual es muy Facil
+
+Al iniciar encontraran la Ventana Bienvenido de Visual Code.
+
+en esta ventana encontraran un Iniciar donde estan las opciones:
+
+  -Nuevo Archivo
+  -Abrir Carpeta
+  -Clonar
+ 
+ Pueden descargar la carpeta Foot-AppWeb en la que esta actualmente
+  y ejecutarla con los pasos
+  
+  tambien pegan el link de la pagina actual y lo clonan en Visual
+
+# Realizar antes de Ejecutar
+
 
 npm install 
 
@@ -13,23 +38,23 @@ npm install --save @angular/animations
 
 # FootAppWeb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+Este Proyecto se Genera Con [Angular CLI] (https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Iniciar `ng serve` Para el Servidor. Navegar a `http://localhost:4200/`. La aplicación se volverá a cargar automáticamente si cambia alguno de los archivos de origen.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Iniciar `ng generate component component-name` Para generar un Nuevo Componente Completo. Tambien Puedes Usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Iniciar `ng build` SPara sacar una version de Produccion. Queda Ubicada en la Carpeta `dist/` dentro del directorio del proyecto. Usar `-prod` Para la produccion.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Iniciar `ng test` Para ejecutar el test via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
